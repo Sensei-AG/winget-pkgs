@@ -1,7 +1,0 @@
-# Created using wingetcreate
-
-PackageIdentifier: XBMCFoundation.Kodi
-PackageVersion: 19.1.0.0
-DefaultLocale: en-US
-ManifestType: version
-ManifestVersion: 1.0.0
